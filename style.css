@@ -1,0 +1,20 @@
+.pricing {
+  padding: 60px;
+  text-align: center;
+}
+
+.pricing-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.plan {
+  border: 1px solid #ddd;
+  padding: 20px;
+  width: 200px;
+}
+
+.plan.popular {
+  border: 2px solid #007bff;
+}
